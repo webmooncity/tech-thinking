@@ -1,0 +1,8 @@
+title : 개발에 대한 사유
+description : Tech thinking log
+theme : jekyll-theme-midnight
+
+url: "https://<userid>.github.io"
+baseurl: "/tech-thinking"
+
+markdown: kramdown
