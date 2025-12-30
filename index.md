@@ -1,5 +1,5 @@
 ---
-layout1: default
+layout: default
 title: 개발에 대한 사유
 ---
 
