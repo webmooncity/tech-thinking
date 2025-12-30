@@ -1,6 +1,6 @@
 ---
-layout : home
-title : 개발에 대한 사유
+layout1: default
+title: 개발에 대한 사유
 ---
 
 # Tech Thinking

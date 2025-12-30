@@ -1,9 +1,9 @@
 ---
-layout : post
-title : "Now begin."
-date : 2025-12-31
+layout: post
+title: "Now begin."
+date: 2025-12-31
 categories: [thinking]
-tags : [reflection]
+tags: [reflection]
 ---
 
 첫 글입니다.
