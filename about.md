@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: withnav
 title: About Me
 permalink: /about/
 ---
