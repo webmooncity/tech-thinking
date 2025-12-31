@@ -22,4 +22,4 @@ title: 개발에 대한 사유
     {% endfor %}
 </ul>
 
-<p>posts count: {{ site.posts | size }}</p>g
+<p>posts count: {{ site.posts | size }}</p>
