@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Now begin."
 date: 2025-12-31
 categories: [thinking]
