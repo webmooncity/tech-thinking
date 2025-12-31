@@ -3,9 +3,10 @@ layout: withnav
 title: 개발에 대한 사유
 ---
 
-# Tech Thinking
-
-테크와 개발에 대한 사유
+기술,
+개발,
+미래에 대해
+생각하고 기록합니다. 
 
 [About Me]({{ "/about/" | relative_url }})
 
