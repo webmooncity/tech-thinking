@@ -6,7 +6,7 @@ categories: [thinking]
 tags: [reflection]
 ---
 
-# 학습 곡선
+## 학습 곡선
 
 AI로 인해 학습 곡선이 엄청 빨라진 것 같다.<br>
 오늘 Jekyll 로컬 실행을 하면서, 많은 에러가 나왔다.<br>
