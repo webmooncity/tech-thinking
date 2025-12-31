@@ -16,8 +16,10 @@ title: 개발에 대한 사유
 <ul>
     {% for post in site.posts %}
         <li>
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ post.rul | relative_url }}">{{ post.title }}</a>
             <small>{{ post.date | date: "%Y-%m-%d" }}</small>
         </li>
     {% endfor %}
 </ul>
+
+<p>posts count: {{ site.posts | size }}</p>
