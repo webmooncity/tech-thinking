@@ -4,6 +4,6 @@ description: Tech thinking log
 url: "https://webmooncity.github.io"
 baseurl: "/tech-thinking"
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 
 markdown: kramdown
