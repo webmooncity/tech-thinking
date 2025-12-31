@@ -1,7 +1,7 @@
 ---
 layout: withnav
 title: "Now begin."
-date: 2025-12-31
+date: 2025-12-31 09:00 +0900
 categories: [thinking]
 tags: [reflection]
 ---

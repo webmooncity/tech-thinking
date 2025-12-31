@@ -1,7 +1,7 @@
 ---
 layout: withnav
 title: "Launching"
-date: 2025-12-31 +12:49
+date: 2025-12-31 12:49 +0900
 categories: [thinking]
 tags: [reflection]
 ---
