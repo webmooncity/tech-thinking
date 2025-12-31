@@ -7,7 +7,7 @@ title: 개발에 대한 사유
 
 테크와 개발에 대한 사유
 
-[About Me]({{ site.baseurl }}/about/)
+[About Me]({{ "/about/" | relative_url }})
 
 ---
 
