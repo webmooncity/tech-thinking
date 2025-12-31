@@ -1,10 +1,10 @@
 ---
 layout: default
-title: About
+title: About Me
 permalink: /about/
 ---
 
-# About
+# About Me
 
 테크와 개발에 대한 사고를 기록하는 공간입니다.
 

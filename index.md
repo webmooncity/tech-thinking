@@ -7,7 +7,7 @@ title: 개발에 대한 사유
 
 테크와 개발에 대한 사유
 
-[About]({{ site.baseurl }}/about/)
+[About Me]({{ site.baseurl }}/about/)
 
 ---
 
@@ -16,10 +16,10 @@ title: 개발에 대한 사유
 <ul>
     {% for post in site.posts %}
         <li>
-            <a href="{{ post.rul | relative_url }}">{{ post.title }}</a>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             <small>{{ post.date | date: "%Y-%m-%d" }}</small>
         </li>
     {% endfor %}
 </ul>
 
-<p>posts count: {{ site.posts | size }}</p>
+<p>posts count: {{ site.posts | size }}</p>g
