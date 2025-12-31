@@ -1,8 +1,9 @@
 title: 개발에 대한 사유
 description: Tech thinking log
-theme: jekyll-theme-midnight
 
 url: "https://webmooncity.github.io"
 baseurl: "/tech-thinking"
+
+theme: jekyll-theme-hacker
 
 markdown: kramdown
